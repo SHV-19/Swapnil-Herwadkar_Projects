@@ -76,5 +76,6 @@ Statista. (n.d.). Sneaker brands ranked. Retrieved May 30, 2024, from https://ww
 CNBC. (n.d.). Nike acquires A.I. platform Celect, hoping to better predict shopping behavior. Retrieved May 30, 2024, from https://www.cnbc.com/2019/08/06/nike-acquires-ai-platform-celect-hoping-to-predict-shopping-behavior.html
 Nike.com. Retrieved May 30, 2024, from https://about.nike.com/en/newsroom/releases/nike-acquires-rtfkt
 Pestle Analysis. (n.d.). SWOT Analysis of Nike. Retrieved May 30, 2024, from  https://pestleanalysis.com/swot-analysis-of-nike/
+
 OTHER REFERENCES
 Nike, Inc. Retrieved May 30, 2024, from, https://en.wikipedia.org/wiki/Nike,_Inc.
