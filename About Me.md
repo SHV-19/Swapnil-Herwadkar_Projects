@@ -1,4 +1,5 @@
 👋 Welcome to Swapnil Herwadkar's Project Portfolio! 🚀
+
 Hi there! I'm Swapnil, a passionate Data Analyst and Business Intelligence professional with expertise in transforming data into actionable insights. This repository is a collection of some of my key projects and work samples, showcasing my skills across various domains. 🌟
 
 🔎 Open to full-time roles: Actively seeking Data Analyst and Business Analyst opportunities.
