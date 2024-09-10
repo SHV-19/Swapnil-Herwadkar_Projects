@@ -56,7 +56,9 @@ Below are some actionable recommendations for Nike based on the SWOT analysis:
 •	Enhance E-commerce and Digital Engagement: Nike should further invest in digital platforms and e-commerce to strengthen direct-to-consumer (DTC) sales channels. This includes improving the online shopping experience, leveraging AI for personalized marketing, and using social media for engaging storytelling to attract more customers online.
 •	Expand Sustainable Product Lines: Nike should continue expanding its range of sustainable and environmentally friendly products. This initiative will appeal to environmentally conscious consumers and help mitigate environmental impacts.
 •	Accelerate Expansion in Emerging Markets: Nike should prioritize expanding its presence in emerging markets with high growth potential. This includes adapting products and marketing strategies to local preferences and building brand loyalty in these regions.
+
 What Makes Nike’s Supply Chain Unique and Effective?
+
 Nike's supply chain is grounded in two key principles: outsourcing and diversification. The company outsources 100% of its footwear and apparel manufacturing to independent suppliers, a pioneering approach adopted early on. Through effective management, Nike's supply chain team has adeptly handled the logistical complexities associated with outsourcing, achieving substantial cost savings over time. While outsourcing entails inherent risks, Nike has successfully mitigated these risks by extensively diversifying its supplier base from the outset. 
 Nike’s supply chain functions around three core organizational principles:
 •	Outsourcing: To save costs
@@ -69,6 +71,7 @@ After conducting a SWOT analysis and further research, working at Nike presents 
 In conclusion, Nike has transitioned from a fragmented stage in the 1990s to a more integrated and strategic stage today. The company's focus on advanced technology and sustainability has strengthened its supply chain management and global brand image. Looking ahead, Nike should continue enhancing labor practices in its Asian manufacturing bases and optimizing product processing from Asia to Europe. I am eager to join a team that is bold and committed to maintaining leadership in the market.
 
 References
+
 Yahoo! Finance. (n.d.). Nike, Inc. (NKE). Retrieved May 30, 2024, from https://finance.yahoo.com/quote/NKE/
 Statista. (n.d.). Nike's advertising and promotion costs from the financial years of 2014 to 2023. Retrieved May 30, 2024, from  https://www.statista.com/statistics/685734/nike-ad-spend/
 Investing.com. (n.d.). A Statistical Analysis of Nike’s Rise to the Top of the Sporting Industry. Retrieved May 30, 2024, from  https://www.investing.com/academy/statistics/nike-facts/
