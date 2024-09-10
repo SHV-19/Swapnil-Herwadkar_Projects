@@ -114,3 +114,5 @@ Spotify could also work closely with artists whose music performs well during sp
 
 This analysis of Spotify's 2024 Wrapped data offers valuable insights into global listening habits, artist popularity, and streaming patterns. By leveraging this data, Spotify can fine-tune its business model to provide targeted marketing, premium offerings, and artist-driven campaigns that maximize engagement and revenue.
 
+Dashboard URL: https://public.tableau.com/views/2024SpotifyWrapped/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
