@@ -1,0 +1,8 @@
+let
+    Quelle = Json.Document(File.Contents("D:\YourDirectory\Merged_SpotifyData.json")),
+    #"Converted to Table" = Table.FromList(Quelle, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+    #"Expanded Column" = Table.ExpandRecordColumn(#"Converted to Table", "Column1", {"endTime", "artistName", "trackName", "msPlayed"}, {"endTime", "artistName", "trackName", "msPlayed"}),
+    #"Renamed Columns" = Table.RenameColumns(#"Expanded Column",{{"artistName", "ArtistName"}, {"trackName", "TrackName"}}),
+    #"Reordered Columns" = Table.ReorderColumns(#"Renamed Columns",{"endTime", "ArtistName", "TrackName", "msPlayed"})
+in
+    #"Reordered Columns"
